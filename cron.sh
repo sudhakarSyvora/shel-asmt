@@ -10,5 +10,5 @@ while true; do
     git commit -m "Add content to file $count time"
     git push origin main
 
-    sleep 10
+    sleep 600
 done
